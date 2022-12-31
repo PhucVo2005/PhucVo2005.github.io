@@ -530,3 +530,10 @@ fill:#1C2033;
     margin: auto;
     width: 20vw;
 }
+
+video {
+width: 80%;
+height: auto;
+margin: 0 10%;
+opacity: 0;
+}
